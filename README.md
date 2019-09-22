@@ -8,6 +8,10 @@
 - Stage4 - добавляем эмулятор
 - StageFinal - запускаем на базе google images рабочий билд с эмулятором
 
+### Выступление на YouTube
+
+[![](http://img.youtube.com/vi/1EiOJ2BpW0g/0.jpg)](http://www.youtube.com/watch?v=1EiOJ2BpW0g "")
+
 ### Документация
 - Презентация: https://yadi.sk/i/IjB8M2L7OByjaw
 - AvdManager: https://developer.android.com/studio/command-line/avdmanager
