@@ -19,8 +19,8 @@
 - Emulator By Google: https://androidstudio.googleblog.com/2019/05/emulator-ci-docker-scripts-for-linux.html
 
 ### Ссылки на готовые решения
-- [LionZXY/google-android-emulator](https://github.com/LionZXY/google-android-emulator) ([DockerHub](https://cloud.docker.com/repository/docker/lionzxy/google-android-emulator))
-- [LionZXY/gitlab-ci-emulator](https://github.com/LionZXY/gitlab-ci-emulator) ([DockerHub](https://cloud.docker.com/repository/docker/lionzxy/gitlab-ci-emulator))
+- [LionZXY/google-android-emulator](https://github.com/LionZXY/google-android-emulator) ([DockerHub](https://hub.docker.com/r/lionzxy/google-android-emulator))
+- [LionZXY/gitlab-ci-emulator](https://github.com/LionZXY/gitlab-ci-emulator) ([DockerHub](https://hub.docker.com/r/lionzxy/gitlab-ci-emulator))
 
 ### Требования к железу
 - Поддержка KVM
